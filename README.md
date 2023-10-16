@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @withfunfun
 - 👀 I’m interested in ... react and javascript
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... react and javascript
+- 💞️ I’m looking to collaborate on ... react javascript 
 - 📫 How to reach me ... kunstji@naver.com
 
 <!---
